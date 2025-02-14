@@ -1,12 +1,12 @@
 # 🎬 DATASpace Datathon - Winning Submission  
 
 ## 📌 Overview  
-This repository contains our winning submission for the DATASpace Datathon, where we developed a machine learning model to predict movie and show reviews. The goal was to analyze textual reviews and classify sentiments accurately using NLP techniques.  
+This repository contains our winning submission for the DATASpace Datathon, where we developed a machine learning model to predict movies and shows rites.  
 
 ## 📂 Repository Contents  
 - 📊 **Exploratory Data Analysis (EDA):** Insights into review trends, sentiment distributions, and key features.  
-- 🤖 **Predictive Model:** Our optimized model for sentiment classification.  
-- 🛠 **Feature Engineering & Preprocessing:** Text cleaning, vectorization, and transformation techniques.  
+- 🤖 **Predictive Model:** Our optimized model for review predective.  
+- 🛠 **Feature Engineering & Preprocessing:**  
 - 📂 **Code & Notebooks:** Full workflow from data preprocessing to model evaluation.  
 
 ## 🚀 Getting Started  
